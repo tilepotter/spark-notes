@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 02 10:56:58 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0181-2258-4164-000011db8428 
+on database directory /Users/wangyingkang/IdeaWorkspace/scala-project/spark-learning/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@14457a95 
+Loaded from file:/Users/wangyingkang/apps/apache-maven-3.6.3/localRepository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=1.8.0_292-b10
+user.dir=/Users/wangyingkang/IdeaWorkspace/scala-project/spark-learning
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.3.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
